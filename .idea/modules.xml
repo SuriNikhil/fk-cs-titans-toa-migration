@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/fk-cs-titans-toa-migration.iml" filepath="$PROJECT_DIR$/.idea/fk-cs-titans-toa-migration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toa-action/toa-action.iml" filepath="$PROJECT_DIR$/toa-action/toa-action.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toa-api/toa-api.iml" filepath="$PROJECT_DIR$/toa-api/toa-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toa-domain/toa-domain.iml" filepath="$PROJECT_DIR$/toa-domain/toa-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toa-service/toa-service.iml" filepath="$PROJECT_DIR$/toa-service/toa-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toa-util/toa-util.iml" filepath="$PROJECT_DIR$/toa-util/toa-util.iml" />
+    </modules>
+  </component>
+</project>

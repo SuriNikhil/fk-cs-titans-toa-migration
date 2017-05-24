@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.flipkart.cp:oms-tnt-models:0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/flipkart/cp/oms-tnt-models/0.1-SNAPSHOT/oms-tnt-models-0.1-20170427.195139-279.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/flipkart/cp/oms-tnt-models/0.1-SNAPSHOT/oms-tnt-models-0.1-20170427.195139-279-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/flipkart/cp/oms-tnt-models/0.1-SNAPSHOT/oms-tnt-models-0.1-20170427.195139-279-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

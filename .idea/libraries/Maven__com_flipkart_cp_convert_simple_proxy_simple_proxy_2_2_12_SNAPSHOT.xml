@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.flipkart.cp.convert.simple.proxy:simple-proxy:2.2.12-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/flipkart/cp/convert/simple/proxy/simple-proxy/2.2.12-SNAPSHOT/simple-proxy-2.2.12-20160104.073021-5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/flipkart/cp/convert/simple/proxy/simple-proxy/2.2.12-SNAPSHOT/simple-proxy-2.2.12-20160104.073021-5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/flipkart/cp/convert/simple/proxy/simple-proxy/2.2.12-SNAPSHOT/simple-proxy-2.2.12-20160104.073021-5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

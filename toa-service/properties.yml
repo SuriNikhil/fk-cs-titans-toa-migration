@@ -1,0 +1,17 @@
+database:
+  driverClass: com.mysql.jdbc.Driver
+  user: root
+  password:
+  url: jdbc:mysql://localhost/toa
+
+logging:
+  level: INFO
+  appenders:
+    - type: console
+      logFormat: "%date %highlight(%-5level) [%thread] %cyan(%logger{10}) [%X{id}] %msg%n"
+    - type: file
+      currentLogFilename: ./../toa_log/toa.log
+      archivedLogFilenamePattern: ./../toa_log/toa-%d{yyyy-MM-dd}.log
+      #archivedFileCount: 30
+      timeZone: IST
+      logFormat: "%date %highlight(%-5level) [%thread] %cyan(%logger{10}) [%X{id}] %msg%n"

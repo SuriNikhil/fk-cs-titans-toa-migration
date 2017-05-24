@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.flipkart.cp:caishen-api:0.2.23.RELEASE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/flipkart/cp/caishen-api/0.2.23.RELEASE/caishen-api-0.2.23.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/flipkart/cp/caishen-api/0.2.23.RELEASE/caishen-api-0.2.23.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/flipkart/cp/caishen-api/0.2.23.RELEASE/caishen-api-0.2.23.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

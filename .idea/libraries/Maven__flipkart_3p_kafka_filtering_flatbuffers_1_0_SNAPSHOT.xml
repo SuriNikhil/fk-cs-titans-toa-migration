@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: flipkart.3p.kafka.filtering:flatbuffers:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/flipkart/3p/kafka/filtering/flatbuffers/1.0-SNAPSHOT/flatbuffers-1.0-20150703.115804-8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/flipkart/3p/kafka/filtering/flatbuffers/1.0-SNAPSHOT/flatbuffers-1.0-20150703.115804-8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/flipkart/3p/kafka/filtering/flatbuffers/1.0-SNAPSHOT/flatbuffers-1.0-20150703.115804-8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

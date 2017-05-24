@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: flipkart.3p.kafka.filtering:data-header:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/flipkart/3p/kafka/filtering/data-header/1.0-SNAPSHOT/data-header-1.0-20150630.135304-7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/flipkart/3p/kafka/filtering/data-header/1.0-SNAPSHOT/data-header-1.0-20150630.135304-7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/flipkart/3p/kafka/filtering/data-header/1.0-SNAPSHOT/data-header-1.0-20150630.135304-7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: flipkart.cp.oms:oms-commons:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/flipkart/cp/oms/oms-commons/1.0-SNAPSHOT/oms-commons-1.0-20170427.195131-286.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/flipkart/cp/oms/oms-commons/1.0-SNAPSHOT/oms-commons-1.0-20170427.195131-286-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/flipkart/cp/oms/oms-commons/1.0-SNAPSHOT/oms-commons-1.0-20170427.195131-286-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
